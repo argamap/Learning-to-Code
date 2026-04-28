@@ -1,6 +1,6 @@
 # Learning to Code
-Description: Following youtube courses and Online Certification Courses
-
+Description: My journey on learning how to code.
+             
 # HTML - CSS
 1. YouTube Channel: SuperSimpleDev
 
